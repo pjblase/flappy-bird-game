@@ -1,6 +1,6 @@
-complete - changed beginning question
-complete - changed one of the responses
-complete - I got rid of one of the loading statemnents
-- changed the timing after the last loading statment 
-- changed the play again question to something cooler
-- changed the goodbye statement 
+- changed beginning question complete
+- changed one of the responses complete
+-- I got rid of one of the loading statemnents conmplete
+- changed the timing after the last loading statment complete
+- changed the play again question to something cooler complete
+- changed the goodbye statement complete
