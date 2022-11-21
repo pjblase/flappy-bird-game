@@ -1,6 +1,6 @@
-{*} changed beginning question
-{*} changed one of the responses
-{*} I got rid of one of the loading statemnents
-{*} changed the timing after the last loading statment 
-{*} changed the play again question to something cooler
-{*} changed the goodbye statement 
+{complete} changed beginning question
+- changed one of the responses
+- I got rid of one of the loading statemnents
+- changed the timing after the last loading statment 
+- changed the play again question to something cooler
+- changed the goodbye statement 
