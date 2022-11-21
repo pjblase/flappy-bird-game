@@ -1,4 +1,5 @@
-this is the magic 8 ball game
+# magic 8 ball
+this the magic 8 ball game
 
 # This is where the code is going to be.
 # W.I.P
@@ -48,7 +49,7 @@ def play_again():
     elif quest != 'yes':
         print('')
         time.sleep(1.5)
-        print('...Goodbye human ...')
+        print('...I have to see you later homie ...')
         quit()
 
 play_game()
