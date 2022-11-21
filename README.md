@@ -1,5 +1,4 @@
-# magic 8 ball
-this the magic 8 ball game
+this is the magic 8 ball game
 
 # This is where the code is going to be.
 # W.I.P
@@ -37,7 +36,7 @@ def play_game():
     print("...Sorry got distracted... ")
     time.sleep(1.5)
     print("...Aha, got it... ")
-    time.sleep(2)
+    time.sleep(1.25)
     print(responses[random.randint(0, len(responses) - 1)])
     play_again()  
 
