@@ -1,4 +1,4 @@
-# flappy-bird-game
+# magic 8 ball
 The game falppy bird with the mechanincs maybe a different look
 
 from itertools import cycle
