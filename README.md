@@ -30,13 +30,11 @@ responses = [
 
 
 def play_game():
-    inp = input('What do you want from the magnificent 8 ball? ')
+    inp = input('What do you want from the magnificent 8 ball?')
     print("You asked: '" + str(inp) + "'")
     time.sleep(1)
     print("Let me see... ")
     time.sleep(1.25) 
-    print("...Still thinking... ")
-    time.sleep(2)
     print("...Sorry got distracted... ")
     time.sleep(1.5)
     print("...Aha, got it... ")
